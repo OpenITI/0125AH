@@ -1,5 +1,5 @@
-00#VERS#CLENGTH##: 847298
-00#VERS#LENGTH###: 211422
+00#VERS#CLENGTH##: 601351
+00#VERS#LENGTH###: 149404
 00#VERS#URI######: 0110IbnSirin.MuntakhabKalamFiTafsirAhlam.ShamAY0034790-ara1
 80#VERS#BASED####: permalink, permalink, permalink
 80#VERS#COLLATED#: permalink, permalink, permalink
@@ -10,7 +10,7 @@
     of part of Ibn Shāhīn's Ishārāt between pages 500 and 501
     (see https://github.com/OpenITI/Annotation/issues/3054).
     PV removed the insertion and converted the original
-    markup for Qur'ān passages `! ( ... ) !` into 
+    markup for Qur'ān passages `! ( ... ) !` into
     @QB@ and @QE@ OpenITI mARkdown tags.
 90#VERS#DATE#####: YYYY-MM-DD
 90#VERS#ISSUES###: formalized issues, separated with commas
